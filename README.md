@@ -18,7 +18,7 @@
    
    
    
- [![Spotify](https://andrelviana.vercel.app/api/spotify)](https://open.spotify.com/user/andre652)
+  [![Spotify](https://andreviana.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/andre652)
 
 
 
