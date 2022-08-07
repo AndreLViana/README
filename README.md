@@ -18,10 +18,14 @@
    
    
    
-  [![Spotify](https://andreviana.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/andre652)
+  <table width="100%"> 
+  <tr>
+  <td width="50%">
 
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117)](https://open.spotify.com/user/andre652)
 
-
+     
+   
 
 
 
