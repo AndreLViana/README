@@ -2,7 +2,7 @@
 # - Olá! Sou André Luiz!
 
 - Estudante de Sistemas de Informação na PUC - Minas
-- Interessado em melhorar minhas habilibdades de programação, focado em back-end.
+- Interessado em melhorar minhas habilidades de programação, focado em back-end.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andre-luiz-viana-585a35239)
 
