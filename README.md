@@ -10,21 +10,27 @@
 
  <a href="https://github.com/AndreLViana">
    
- <img height= "165em" src="https://github-readme-stats.vercel.app/api?username=AndreLViana&theme=vision-friendly-dark&show_icons=true&include_all_commits=true&hide_border=true" />
+ <img height= "151em" src="https://github-readme-stats.vercel.app/api?username=AndreLViana&theme=vision-friendly-dark&show_icons=true&include_all_commits=true&hide_border=true" />
 
 ##
   
- <img height= '165em' src="http://github-readme-streak-stats.herokuapp.com?user=AndreLViana&theme=vision-friendly-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+ <img height= '151em' src="http://github-readme-streak-stats.herokuapp.com?user=AndreLViana&theme=vision-friendly-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
 ##
    
- <img height= "110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLViana&theme=vision-friendly-dark&langs_count=8&layout=compact&hide_border=true" />
+ <img height= "126em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLViana&theme=vision-friendly-dark&langs_count=8&layout=compact&hide_border=true" />
 
 ##
 
- <img alt="Symbol-HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" height="35"/> 
- <img alt="Symbol-CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" height="35"/>
-   
+<img height = "116em" src="https://github-readme-stats.vercel.app/api/wakatime?username=AndreLViana&theme=vision-friendly-dark&hide_border=true)](https://github.com/AndreLViana/github-readme-stats" />
+
+##
+
+
+<img alt="Symbol-HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" height="35"/> 
+<img alt="Symbol-CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" height="35"/>
+
+
 ### *- Contato*
 
 <div align="left">
