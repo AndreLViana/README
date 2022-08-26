@@ -1,11 +1,7 @@
 
 # - Olá! Sou o André Luiz! 
 
-
-<img alt="GIF" align="right" width="400" height="255" src="https://i.pinimg.com/originals/ed/88/da/ed88da8c757d74f6255717ffc7a78154.gif"/> 
-
-No momento sou estudante de Sistemas de Informação na *Pontifícia Universidade Católica de Minas Gerais* **(PUC - MG)** e também no *Serviço Nacional de Aprendizagem Industrial* **(SENAI)** onde faço Manutenção e Suporte em Informática.
-
+ No momento sou estudante de Sistemas de Informação na *Pontifícia Universidade Católica de Minas Gerais* **(PUC - MG)** e também no *Serviço Nacional de Aprendizagem Industrial* **(SENAI)** onde faço Manutenção e Suporte em Informática.
 Fascinado pela tecnologia e suas aplicações, meu objetivo é aprimorar minhas habilidades de programação para me tornar um desenvolvedor focado em back-end.
 
 ##
@@ -35,6 +31,8 @@ Fascinado pela tecnologia e suas aplicações, meu objetivo é aprimorar minhas 
 <img alt="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" height="35"/>
 <img alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="35" height="35"/> 
 <img alt="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" width="35" height="35" />
+<img alt="Git" src="https://user-images.githubusercontent.com/110347145/186905409-8519d0ed-fbfe-4aeb-8d75-fe3cab660a3b.png" width="35" height="35" />
+
 
 
 ### *- Contato*
