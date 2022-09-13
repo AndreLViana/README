@@ -38,6 +38,7 @@ Fascinado pela tecnologia e suas aplicações, meu objetivo é aprimorar minhas 
 <img alt="GitHub" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" img height= "50em" />
 <img alt="Git" src="https://user-images.githubusercontent.com/110347145/186905409-8519d0ed-fbfe-4aeb-8d75-fe3cab660a3b.png" img height= "50em" />
 
+<img alt="NodeJs" src="https://user-images.githubusercontent.com/110347145/189842342-c34924ba-4959-40e5-baaa-909f538bc3bb.svg" img height= "50em" />
 
 
 
