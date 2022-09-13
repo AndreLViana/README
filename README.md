@@ -20,7 +20,7 @@ Fascinado pela tecnologia e suas aplicações, meu objetivo é aprimorar minhas 
 
 ##
 
-<img height = "116em" src="https://github-readme-stats.vercel.app/api/wakatime?username=AndreLViana&theme=vision-friendly-dark&hide_border=true)](https://github.com/AndreLViana/github-readme-stats" />
+<img height = "190em" src="https://github-readme-stats.vercel.app/api/wakatime?username=AndreLViana&theme=vision-friendly-dark&hide_border=true)](https://github.com/AndreLViana/github-readme-stats" />
 
 
 
